@@ -6,3 +6,4 @@
 - Lady Sombras
 - Kronos
 - El Destructor
+- el papulince
