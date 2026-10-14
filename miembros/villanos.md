@@ -7,6 +7,7 @@
 - Kronos
 - El Destructor
 - el papulince
+-EvilMan
 
 # notas
 
