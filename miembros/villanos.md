@@ -7,3 +7,7 @@
 - Kronos
 - El Destructor
 - el papulince
+
+# notas
+
+esta es una lista de villanos que aparecen en la historia. Cada uno tiene habilidades y características únicas que los hacen peligrosos para los héroes.
