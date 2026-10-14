@@ -61,3 +61,9 @@ _Brainiac se conecta remotamente a sus drones. Doctor Doom viaja cada 2 semanas 
 
 _La Base Lunar es nuestro activo más valioso y más vulnerable. Cualquier operación que la exponga requiere aprobación unánime del Consejo._
 _"Si Superman descubre esta base, todo se acaba. Literalmente puede volar hasta aquí en 4 minutos." — Lex Luthor_
+
+# encargados de area:
+encargados de area:
+- Brainiac: Laboratorio de clonación y comunicaciones       
+- Magneto: Taller de ensamblaje satelital y plataforma de lanzamiento
+- el papulince: Invernadero hidropónico y dormitorios.
