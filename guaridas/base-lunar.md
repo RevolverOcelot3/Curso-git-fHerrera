@@ -61,3 +61,10 @@ _Brainiac se conecta remotamente a sus drones. Doctor Doom viaja cada 2 semanas 
 
 _La Base Lunar es nuestro activo más valioso y más vulnerable. Cualquier operación que la exponga requiere aprobación unánime del Consejo._
 _"Si Superman descubre esta base, todo se acaba. Literalmente puede volar hasta aquí en 4 minutos." — Lex Luthor_
+
+# coordenadas
+coordenadas: 3.5°S, 23.4°E (Cráter Obscura, cara oculta de la Luna)
+
+
+# jefe de base
+jefe: Brainiac
