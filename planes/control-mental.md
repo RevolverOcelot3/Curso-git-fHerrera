@@ -1,0 +1,2 @@
+# control mental
+estos son los ejercicios de control mental que puedes realizar para mejorar tu concentración y enfoque. Practicar estos ejercicios regularmente puede ayudarte a mantener la calma y la claridad mental en situaciones estresantes.

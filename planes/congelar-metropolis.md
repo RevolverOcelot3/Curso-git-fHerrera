@@ -1,0 +1,2 @@
+# congelra
+congelar la metrópolis es un plan que consiste en utilizar tecnología avanzada para crear una capa de hielo sobre la ciudad, con el objetivo de detener el crecimiento urbano y preservar el medio ambiente. Este plan requiere la colaboración de expertos en climatología, ingeniería y urbanismo para garantizar su efectividad y minimizar los impactos negativos en la población y la infraestructura.
