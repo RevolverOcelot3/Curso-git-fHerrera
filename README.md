@@ -28,7 +28,7 @@ nuevas - misiones/        → Propuestas de misiones en desarrollo
 | 🥈 Segundo al mando       | Magneto    | Estratega militar y reclutamiento de mutantes           |
 | 🥉 Jefa de infiltración   | Mystique   | Espionaje, identidades falsas y operaciones encubiertas |
 | ⚙️ Director de tecnología | Brainiac   | Sistemas, armamento y recopilación de datos             |
-
+consejo
 ## Miembros activos (campo)
 
 - **Joker** — Operaciones de distracción y caos
