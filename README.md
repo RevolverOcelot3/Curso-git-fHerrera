@@ -19,6 +19,7 @@ README.md            → documenacion principal de esto.
 nuevas - misiones/        → Propuestas de misiones en desarrollo
 
 ```
+mas cambios de readme.
 
 ## El Consejo de Villanos
 
