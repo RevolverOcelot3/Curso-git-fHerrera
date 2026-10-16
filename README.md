@@ -1,3 +1,16 @@
+![Estático](https://img.shields.io/badge/Repo-Activa-green)
+
+![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Workflow](https://img.shields.io/github/actions/workflow/status/RevolverOcelot3/legion-del-mal/ci.yml)
+![Release](https://img.shields.io/github/v/release/RevolverOcelot3/Curso-git-fHerrera)
+![Issues](https://img.shields.io/github/issues/RevolverOcelot3/Curso-git-fHerrera)
+![Último commit](https://img.shields.io/github/last-commit/RevolverOcelot3/Curso-git-fHerrera)
+![Licencia](https://img.shields.io/github/license/RevolverOcelot3/Curso-git-fHerrera)
+
+
+
+
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
