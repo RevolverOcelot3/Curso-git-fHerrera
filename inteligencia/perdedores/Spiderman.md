@@ -25,4 +25,12 @@ familiares:
 - Harry Osborn
 - Gwen Stacy 
 
+hobbies:
+- Fotografiar la ciudad y documentar sus aventuras
+- Leer cómics, ciencia ficción y noticias del vecindario
+- Experimentar con tecnología e inventos para sus trajes y gadgets
+- Pasar tiempo con amigos y seres queridos
+- Hacer ejercicio y mantener su condición física
+
 mas cosas
+
