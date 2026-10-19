@@ -6,3 +6,4 @@ miembros: Joker, Doctor Doom, Loki, Catwoman, Venom, Green Goblin
 
 jefe: Lex Luthor
 
+personal: 6 miembros activos, 2 en entrenamiento
