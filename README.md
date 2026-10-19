@@ -12,7 +12,7 @@
 
 
 # 🦹‍♂️ La Legión del Mal -
-## grupo de supervillanos unidos por un objetivo común: dominar el mundo y derrotar a los héroes.
+## grupo de supervillanos unidos
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
