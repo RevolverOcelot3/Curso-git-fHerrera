@@ -32,5 +32,13 @@ hobbies:
 - Pasar tiempo con amigos y seres queridos
 - Hacer ejercicio y mantener su condición física
 
+herramientas:
+- Disparadores de telaraña para lanzar redes y crear desplazamientos
+- Telarañas sintéticas de distintos tipos, como adhesivas, explosivas o de utilidad
+- Traje reforzado con telas ultraligeras y resistencia a impactos
+- Gafas con sensores y cámara para analizar la ciudad y registrar evidencia
+- Gadgets de alta tecnología, como escáneres, dispositivos de rastreo y útiles de rescate
+- Internet de araña y sistemas de comunicación para coordinar operaciones
+
 mas cosas
 
