@@ -24,3 +24,5 @@ familiares:
 - Mary Jane Watson
 - Harry Osborn
 - Gwen Stacy 
+
+mas cosas
