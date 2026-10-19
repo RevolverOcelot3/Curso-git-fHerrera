@@ -1,0 +1,26 @@
+# Spider-Man
+
+Spider-Man es un superhéroe creado por Stan Lee y Steve Ditko, conocido por su identidad secreta de Peter Parker. Tras ser mordido por una araña radioactiva, adquiere habilidades sobrehumanas como trepar paredes, reflejos excepcionales y agilidad extrema. Además, usa su ingenio para combatir el crimen con un gran sentido de responsabilidad y humor.
+
+Su historia destaca por equilibrar la vida cotidiana de un joven estudiante con la lucha contra villanos icónicos como Doctor Octopus, Green Goblin y Venom. Spider-Man representa la idea de que el poder conlleva una gran responsabilidad, y por eso se convierte en uno de los héroes más queridos del cómic y el cine.
+
+poderes:
+- Trepar paredes
+- Superfuerza
+- Agilidad y reflejos sobrehumanos
+- Sentido arácnido
+- Telarañas sintéticas
+
+enemigos:
+- Doctor Octopus
+- Green Goblin
+- Venom
+- Sandman
+- El Buitre
+
+familiares:
+- May Parker
+- Ben Parker
+- Mary Jane Watson
+- Harry Osborn
+- Gwen Stacy 
