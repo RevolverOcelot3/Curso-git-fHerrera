@@ -32,12 +32,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      -name: Imprimir inputs
+      - name: Imprimir inputs
         run: |
-          echo "inputs: "
-          echo ""
-          echo "villano: ${{inputs.villano}}"
-          echo "prioridad: ${{inputs.prioridad}}"
-          echo "mensaje: ${{inputs.mensaje}}"
+         echo "inputs: "
+         echo ""
+         echo "villano: ${{inputs.villano}}"
+         echo "prioridad: ${{inputs.prioridad}}"
+         echo "mensaje: ${{inputs.mensaje}}"
           
           
