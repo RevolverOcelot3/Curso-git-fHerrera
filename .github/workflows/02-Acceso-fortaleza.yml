@@ -15,4 +15,21 @@ jobs:
                 ls -la
                 echo ""
                 echo "x pero que paso? no hay nada"
+            
+            - name: "joker desbloquea la boveda"    
+              uses: actions/checkout@v4
+
+            - name: "ahora si podemos ver los planes"
+              run: |
+                 echo "buscar los archivos  de la legion"
+                 ls -la
+                 echo "CHECK FUNCIONA"  
+                 echo "" 
+                 echo "planes:"
+                 ls planes/
+                 echo "villanos:"
+                 ls villanos/
+                 echo "inteligencia: "
+                 ls inteligencia/
+
                 
