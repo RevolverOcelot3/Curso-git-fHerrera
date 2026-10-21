@@ -4,3 +4,9 @@ congelar la metrópolis es un plan que consiste en utilizar tecnología avanzada
 steps para implementar el plan de congelar la metrópolis:
 1. Realizar un estudio exhaustivo del clima y la geografía de la ciudad para determinar las áreas más adecuadas para aplicar la tecnología de congelación.
 2. Desarrollar y probar la tecnología de congelación en un entorno controlado antes de implementarla en la ciudad.  
+
+## Plan de escape
+
+- **Si el clon es descubierto:** activar autodestrucción del clon (se desintegra en 60 segundos)
+- **Si Superman escapa de la celda:** evacuación inmediata de la Fortaleza Prohibida. Magneto y Doctor Doom contienen a Superman mientras el resto escapa.
+- **Si el clon se rebela:** ... Brainiac dice que el chip de control funcionará. Lex Luthor no está tan seguro.
