@@ -29,7 +29,7 @@ on:
           - dragon
           - bunny
           - ghostbusters
-          - goat
+          - default
 
       prioridad:
         description: 'Nivel de prioridad'
