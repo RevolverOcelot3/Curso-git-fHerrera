@@ -1,7 +1,7 @@
 name: Acceso a fortaleza
 
-on: push
-
+on: 
+  workflow_dispatch:
 jobs: 
     Acceso-a-fortaleza-prohibida:
         runs-on: ubuntu-latest
