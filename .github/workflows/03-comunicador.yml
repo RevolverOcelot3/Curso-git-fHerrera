@@ -29,7 +29,6 @@ on:
           - dragon
           - bunny
           - ghostbusters
-          - chessmen
           - goat
 
       prioridad:
